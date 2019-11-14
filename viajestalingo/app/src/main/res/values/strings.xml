@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Registro de Viajes</string>
+    <string name="view_all">Viajes Activos</string>
+    <string name="add_new">Crear Viaje</string>
+    <string name="listaviajes">Viajes Activos</string>
+    <string name="crea_viaje">Creando Viaje</string>
+    <string name="detalle_viajes">Detalle Viaje</string>
+    <string name="view_diario">Informe Diario</string>
+    <string name="view_car">Ver Autos</string>
+    <string name="title_activity_movie_update_delete">Actualizar Viaje</string>
+    <string name="movieName">Auto</string>
+    <string name="genre">Salida</string>
+    <string name="year">Llegada</string>
+    <string name="rating">Pasajeros</string>
+    <string name="update">Cerrar Viaje</string>
+    <string name="delete">Cerrar</string>
+    <string name="add">Agregar Viaje</string>
+    <string name="sAuto">Auto</string>
+    <string name="sCantidad">Cantidad</string>
+</resources>
